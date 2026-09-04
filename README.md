@@ -75,7 +75,7 @@ Completed as a collaborative academic/group project.
 
 ![Home Page](images/home.png)
 
-### Login Page
+### Sign in Page
 
 ![Login Page](images/login.png)
 
