@@ -26,7 +26,7 @@ This was a group project, and I completed the majority of the development work. 
 - Developing the core Django backend logic
 - Implementing user authentication
 - Managing product and transaction functionality
-- Integrating Stripe gateway
+- Integrating Stripe payment gateway
 - Building and styling responsive pages with Bootstrap
 - Testing features and resolving application issues
 
@@ -71,7 +71,7 @@ Completed as a collaborative academic/group project.
 
 ## Screenshots
 
-### Home Page
+### home page
 
 ![Home Page](images/home.png)
 
@@ -87,7 +87,7 @@ Completed as a collaborative academic/group project.
 
 ![Dashboard](images/dashboard.png)
 
-### Results
+### stripe payment gateway
 
 ![Results](images/results.png)
 
