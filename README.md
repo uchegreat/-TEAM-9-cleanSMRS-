@@ -69,6 +69,32 @@ Do not commit private keys or sensitive credentials to the repository.
 
 Completed as a collaborative academic/group project.
 
+## Screenshots
+
+### Home Page
+
+![Home Page](images/home.png)
+
+### Login Page
+
+![Login Page](images/login.png)
+
+### Sign Up Page
+
+![Sign Up Page](images/signup.png)
+
+### Dashboard
+
+![Dashboard](images/dashboard.png)
+
+### Results
+
+![Results](images/results.png)
+
+### Additional Screenshot
+
+![Additional Screenshot](images/other.png)
+
 ## Author
 
 **Uche Great**
