@@ -75,15 +75,11 @@ Completed as a collaborative academic/group project.
 
 ![Home Page](images/home.png)
 
-### Sign in Page
-
-![Login Page](images/login.png)
-
 ### Sign Up Page
 
 ![Sign Up Page](images/signup.png)
 
-### Dashboard
+### products for sale
 
 ![Dashboard](images/dashboard.png)
 
